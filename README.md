@@ -1,2 +1,2 @@
 # Web Page URLs
-restaurant app spicyfeastrestaurant.netlify.app
+restaurant app https://spicyfeastrestaurant.netlify.app/
